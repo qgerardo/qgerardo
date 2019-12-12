@@ -23,6 +23,7 @@ int main(int argc, char** argv) {
     cout << "test git sur neatbeans" << endl;
     
     cout << "deuxieme test de git" << endl;
+    cout << "Modification Loïc" << endl;
     return 0;
 }
 

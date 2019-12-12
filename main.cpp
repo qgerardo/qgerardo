@@ -20,7 +20,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
 
-    cout << "test git sur neatbeans" << endl;
+    cout << "test git neatbeans" << endl;
     
     cout << "deuxieme test de git" << endl;
     cout << "Modification Loïc" << endl;
